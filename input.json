@@ -1,0 +1,32 @@
+{
+    "hook": {
+        "title": "WRONG SQUAT \u274c",
+        "subtitle": "This wrecks your knees & back"
+    },
+    "exercises": [
+        {
+            "title": "Exercise 1",
+            "subtitle": "Short explanation",
+            "footer": "3 x 10 reps"
+        },
+        {
+            "title": "Exercise 2",
+            "subtitle": "Short explanation",
+            "footer": "3 x 10 reps"
+        },
+        {
+            "title": "Exercise 3",
+            "subtitle": "Short explanation",
+            "footer": "3 x 10 reps"
+        },
+        {
+            "title": "Exercise 4",
+            "subtitle": "Short explanation",
+            "footer": "3 x 10 reps"
+        }
+    ],
+    "cta": {
+        "title": "YOUR TURN",
+        "subtitle": "Start training them"
+    }
+}
